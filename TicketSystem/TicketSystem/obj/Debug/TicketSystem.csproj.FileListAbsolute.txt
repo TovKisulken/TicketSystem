@@ -1,0 +1,10 @@
+B:\Other\Files\VS Приложение\TicketSystem\TicketSystem\obj\Debug\TicketSystem.Properties.Resources.resources
+B:\Other\Files\VS Приложение\TicketSystem\TicketSystem\obj\Debug\TicketSystem.csproj.GenerateResource.cache
+B:\Other\Files\VS Приложение\TicketSystem\TicketSystem\bin\Debug\TicketSystem.exe.config
+B:\Other\Files\VS Приложение\TicketSystem\TicketSystem\bin\Debug\TicketSystem.exe
+B:\Other\Files\VS Приложение\TicketSystem\TicketSystem\bin\Debug\TicketSystem.pdb
+B:\Other\Files\VS Приложение\TicketSystem\TicketSystem\obj\Debug\TicketSystem.exe
+B:\Other\Files\VS Приложение\TicketSystem\TicketSystem\obj\Debug\TicketSystem.pdb
+B:\Other\Files\VS Приложение\TicketSystem\TicketSystem\obj\Debug\TicketSystem.FormAutorization.resources
+B:\Other\Files\VS Приложение\TicketSystem\TicketSystem\obj\Debug\TicketSystem.FormAdmin.resources
+B:\Other\Files\VS Приложение\TicketSystem\TicketSystem\obj\Debug\TicketSystem.FormEventsAdmin.resources
